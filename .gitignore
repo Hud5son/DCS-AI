@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# mission files: copies for testing, never committed
+*.miz
+tmp/
