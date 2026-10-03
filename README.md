@@ -22,4 +22,4 @@ Code arrives once the round-trip test says which project this is.
 - A DCS World installation
 - pydcs, installed from GitHub not PyPI. The PyPI release is from April 2023 and stale; the repo tracks current DCS versions.
 
-Tracked in the vault at `Personal/DCS/DCS-AI`. See `CLAUDE.md`.
+Tracked in the vault at `Personal/fun/DCS/DCS-AI`. See `CLAUDE.md`.

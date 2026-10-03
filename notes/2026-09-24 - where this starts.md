@@ -2,7 +2,7 @@
 
 2026-09-24. Repo created. Nothing built.
 
-Full reasoning, and an extraction of the nearest competitor dcs-mcp.com, are in the vault node at `Personal/DCS/DCS-AI`. The short version:
+Full reasoning, and an extraction of the nearest competitor dcs-mcp.com, are in the vault node at `Personal/fun/DCS/DCS-AI`. The short version:
 
 ## The shape
 

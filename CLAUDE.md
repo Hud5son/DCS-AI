@@ -4,7 +4,7 @@ An MCP server that lets Claude read and write DCS World `.miz` mission files, bu
 
 ## Tracked in the vault
 
-This repo is tracked by the vault node **DAI**, at `C:\Users\Alex\Documents\Vault\Personal\DCS\DCS-AI`.
+This repo is tracked by the vault node **DAI**, at `C:\Users\Alex\Documents\Vault\Personal\fun\DCS\DCS-AI`.
 
 The split, decided 2026-09-24:
 
